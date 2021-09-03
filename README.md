@@ -22,14 +22,17 @@ _(The list is of what I used in building, doesn't stop you from using different 
   <tr>
     <td> Arduino with cable (Uno Recommended) </td>
     <td> Jumper Wires </td>
+    <td> Glue Gun (optional) </td>
   </tr>
   <tr>
     <td> Breadboard </td>
     <td> Water Sensor </td>
+    <td> Solder Iron (optional) </td>
   </tr>
   <tr>
     <td> 5V Passive Buzzer </td>
     <td> DC 3-6V Mini Submersible Pump </td>
+    <td> Pipe </td>
   </tr>
   <tr>
     <td> Moisture Sensor  </td>
@@ -43,6 +46,9 @@ _(The list is of what I used in building, doesn't stop you from using different 
   </tr>
 </table>
  
+_All Electronic equipment available at [Robu.in](https://robu.in/)_
+_Hardwares like Pipe and Reservoir readily available at local hardware shops_ 
+
  
 ### Procedure
 
@@ -62,3 +68,20 @@ Hope you try it out, and use your skills to solve a very minor problem at many h
 
 - Do study the plant you have before blindly copying the code, ask the florist about the water, sunlight and fertilisesr requirements. Then code accordingly.
 - Check for any loose connections or any issue with casings, as it might lead to corrosion and contamination of water in reservoir as well.
+
+
+
+
+### Equipments from [Robu.in](https://robu.in/):
+1. [Arduino Uno](https://robu.in/product/arduino-uno-r3/)
+2. [Jumper Wires](https://robu.in/product/20-cm-40-pin-dupont-male-male-male-female-female-female-cable-combo/)
+3. [Glue Gun](https://robu.in/product/standard-temperature-corded-150-mm-40-watt-hot-melt-glue-gun-11mm-x150mm/)
+4. [Breadboard](https://robu.in/product/transparent-400-points-solderless-breadboard/)
+5. [Water Sensor](https://robu.in/product/grove-water-sensor/)
+6. [Solder Iron](https://robu.in/product/soldering-iron-kit-3-in-1/)
+7. [Buzzer](https://robu.in/product/5v-passive-buzzer/)
+8. [Submersible Pump](https://robu.in/product/dc-3-6-v-mini-micro-submersible-water-pump/)
+9. [Moisture Sensor](https://robu.in/product/soil-moisture-meter-soil-humidity-sensor-water-sensor-soil-hygrometer-ardunio/)
+10. [n-p-n Transistor](https://robu.in/product/bc547-npn-transistor-pack-of-20/)
+11. [Battery Connector](https://robu.in/product/9v-battery-snap-connector-dc-jackbattery-connector-cap/)
+12. [Batteries](https://robu.in/product/9v-original-hw-high-quality-battery-5pcs/)
