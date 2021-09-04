@@ -46,11 +46,11 @@ Download the [Arduino IDE](https://www.arduino.cc/en/software/) on your Computer
 
 Once you have gotten all the things, I'd recommend you to test it all before going ahead with all of it.
 
-For testing, go to the [Test Codes](https://github.com/Achyut-Saxena/Plantector/tree/main/Codes/Test%20Codes). All expected output's are given in [Test Codes](https://github.com/Achyut-Saxena/Plantector/tree/main/Codes/Test%20Codes), in case it doesn't match check the connections as well as the equipment.
+For testing, go to the [Test Codes](https://github.com/Achyut-Saxena/Plantector/tree/main/Codes/Test%20Codes). All expected output's are given in [README of Test Codes](https://github.com/Achyut-Saxena/Plantector/blob/main/Codes/Test%20Codes/README.md), in case it doesn't match check the connections as well as the equipment.
 
 Once you are sure that everything is working, go ahead with your **VERY FIRST PROTOTYPE!!**
 
-Navigate to [Final](https://github.com/Achyut-Saxena/Plantector/tree/main/Codes/Final). You'll find the final code along with the circuit diagram and the expected result in the README of [Final](https://github.com/Achyut-Saxena/Plantector/tree/main/Codes/Final).
+Navigate to [Final](https://github.com/Achyut-Saxena/Plantector/tree/main/Codes/Final). You'll find the final code along with the circuit diagram and the expected result in the [README of Final](https://github.com/Achyut-Saxena/Plantector/blob/main/Codes/Final/README.md).
 
 Hope you try it out, and use your skills to solve a very minor problem at many households without purchasing a product and rather making it yourself.
 
