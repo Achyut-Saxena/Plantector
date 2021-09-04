@@ -169,7 +169,7 @@ void loop()
 {
   moi_sen(); //to run the moisture sensor
   w_lvl();  //to run the water level sensor
-  delay(900000);
+  delay(1800000);
 }
 
 void w_lvl()
@@ -216,11 +216,13 @@ void moi_sen()
  Serial.print("Mositure : ");
  Serial.print(out_soil);
  Serial.println("%");
- if(out_soil< 0)
+ if(out_soil< 30)
  {
   digitalWrite(pwm,HIGH);
+  delay(5000);
+  digitalWrite(pwm, LOW);
  }
- if(out_soil> 0)
+ if(out_soil> 30)
  {
   digitalWrite(pwm,LOW);
  }
