@@ -60,7 +60,7 @@ The program is in loop of 30 mins. It means that everything in the code/system w
 
 When the soil is dry, the moisture sensor will read a negative value which will then indicate the pump to switch on till the moisture level reaches about 30% (_adequate water for my plant, would be different for yours_). Once the pump supplies the water and certain % of water is received it turns off. 
 
-This checking of % of moisture continues every 15 mins.
+This checking of % of moisture continues every 30 mins.
 
 While suppling water, when the water level in the reservoir reaches below the 3/4ths of the sensor, it'll start playing the Hedwig's Theme (_Harry Potter Theme_), indicating that it's low on water and refill is needed. It'll be on loop until we fill in water to a point where the sensor is submerged.
 
