@@ -4,7 +4,7 @@ Plantector is a solution for protecting plants from dying due to over-flooding o
 
 ## Inspiration
 
-As I entered adulthood, I thought of growing a few plants. So I went ahead and bought a small dog-flower plant. 🌸
+As I entered adulthood, I thought of growing a few plants. So I went ahead and bought a small dog-flower plant.🌸
 <p align="center">
 <img src="https://user-images.githubusercontent.com/69965983/132068900-3d80042c-17e9-455b-8e73-0221a1fcdbda.jpeg" height="300" width="300"/> 
 </p>
